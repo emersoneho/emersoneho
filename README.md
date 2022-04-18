@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+See my CV : 
+https://www.notion.so/emersoneho/Resume-5e60c934a9ea49b0b4369a3c701210f2
+
 <!--
 **emersoneho/emersoneho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
